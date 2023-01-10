@@ -1,0 +1,12 @@
+********************************************************************************
+*                        Basic instructions of the program                        
+********************************************************************************  
+#          The program makes use of numbers and letters for navigation
+#               For the letters only capital letters can be used
+#                          FOR THE ADD MENU
+#              Can only add a maximun of 5 students at a time
+#                          FOR THE DELETE MENU
+#             Can only delete one student at a given time 
+################################################################################              
+
+
